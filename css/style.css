@@ -31,6 +31,10 @@ a{
 	color:#183d08
 }
 
+a:hover{
+	font-style: italic;
+}
+
 .active a{
 	text-decoration: overline underline;
 	color: #555408;
